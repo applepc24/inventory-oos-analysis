@@ -11,10 +11,6 @@ __pycache__/
 *.log
 logs/
 
-# Output directories
-out/
-debug_out/
-
 # Environment variables
 .env
 
@@ -28,4 +24,12 @@ debug_out/
 details_sample.json
 l2s_sample.json
 product_urls.txt
-*.png
+
+# Output directories
+debug_out/
+
+# out 폴더는 추적하되, 무거운/로컬 산출물만 제외
+out/**/*.csv
+out/**/*.parquet
+out/**/*.json
+out/**/*.tmp
