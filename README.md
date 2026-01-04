@@ -75,10 +75,10 @@
 - 특정 매장 집중 문제 vs 전사 공통 문제를 직관적으로 확인
 
 **Q1 사례 (배분/운영 이슈 가능성)**  
-![Q1 Heatmap](out/Q1_heatmap_E451648-000.png)
+![Q1 Heatmap](out/heatmaps_8/Q1_heatmap_E451648-000.png)
 
 **Q4 사례 (구조적 공급 부족 가능성)**  
-![Q4 Heatmap](out/Q4_heatmap_E459688-000.png)
+![Q4 Heatmap](out/heatmaps_8/Q4_heatmap_E459688-000.png)
 
 #### 6️⃣ 지속적 운영 리스크 탐지
 - `oos_rate == 1` 기준으로  
