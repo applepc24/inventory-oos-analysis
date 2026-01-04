@@ -1,0 +1,31 @@
+# Environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Log files
+*.log
+logs/
+
+# Output directories
+out/
+debug_out/
+
+# Environment variables
+.env
+
+# IDE / Editor specific
+.idea/
+.vscode/
+*.swp
+
+# Samples / local artifacts
+*_sample.json
+details_sample.json
+l2s_sample.json
+product_urls.txt
+*.png
